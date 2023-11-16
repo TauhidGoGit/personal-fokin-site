@@ -63,18 +63,7 @@ h2{
 .allin-style{
     text-align: center;
 }
-.button2{
-    
-    border-radius: 5px;
-    background-color: rgb(255, 166, 0);
-    text-decoration: none;
-    padding: 40px 140px;
-    font-weight: bolder;
-    color: rgb(0, 0, 0);
-    background-image: linear-gradient(45deg, rgb(233, 211, 12),orange);
-    font-size: larger;
-    
-}
+
 .foot{
     text-align: center;
 }
